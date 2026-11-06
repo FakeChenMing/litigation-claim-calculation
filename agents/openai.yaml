@@ -1,0 +1,4 @@
+interface:
+  display_name: "诉讼请求分项计算说明"
+  short_description: "逐项列明请求权基础、可复算金额和证据页码，形成法院说明或庭审清单"
+  default_prompt: "请用 $litigation-claim-calculation 按本案现行诉请核对金额，列明请求权基础、计算明细和证据位置。"
