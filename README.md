@@ -10,7 +10,7 @@
 
 > 请用 $litigation-claim-calculation，根据本案当前起诉状和证据册，逐项列明请求权基础、计算明细和证据位置。先核对原诉请与复算金额的差异，等我确认口径后再出法院说明稿。
 
-可以先看[虚构数据的分段计费与回款示例](references/worked-example.md)。示例同时展示了维持原诉请与按复算数调整时的写法。
+可以先看[虚构数据的分段计费与回款示例](references/worked-example.md)。其中还演示了庭审中如何用时间轴说明到期和起算。涉及跨期结余或诉请调整时，参见[跨期结算与新旧金额对照](references/reconciliation.md)。
 
 ## 使用条件
 
